@@ -4,8 +4,8 @@ Bootstrap Strap based food website
 Installing bootstrap and jquery
 
 
-npm install bootstrap@4.0.0 --save
-npm install jquery@3.3.1 popper.js@1.12.9 --save
+```npm install bootstrap@4.0.0 --save
+npm install jquery@3.3.1 popper.js@1.12.9 --save```
 
 Include the bootstrap modules
 <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
