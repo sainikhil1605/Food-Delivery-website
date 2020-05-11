@@ -1,4 +1,4 @@
-# Bootstrap-based-website [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Bootstrap%20based%food%20website&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+# Bootstrap-based-website [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Bootstrap%20based%food%20&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
 Bootstrap Strap based food website
 
