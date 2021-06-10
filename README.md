@@ -1,18 +1,12 @@
-# Bootstrap based Website [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Bootstrap%20based%food%20&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+# Food Delivery Website [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Bootstrap%20based%food%20&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
-Bootstrap Strap based food website
+Food Ordering Website
 
-Installing bootstrap and jquery
+## Setup 
 
+clone the website run 
 
-```npm install bootstrap@4.0.0 --save```
-
-
-```npm install jquery@3.3.1 popper.js@1.12.9 --save```
-
-
-Include the bootstrap modules
-
+# ``npm install``
 
 ```<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">```
 
